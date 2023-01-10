@@ -1,5 +1,5 @@
 {
-  "name": "header",
+  "name": "syi-header",
   "version": "0.2.0",
   "main": "dist/index.js",
   "scripts": {
@@ -22,5 +22,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "037c54f629bdad68e17948038bd80a4645bd67c8"
+  "gitHead": "666135682ca57e274bb80516fe0b60840cfbdaee"
 }
